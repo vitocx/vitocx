@@ -1,5 +1,12 @@
 ### Olá, eu sou Victor!
 
+<ul>
+  <li>Sou estudante de Engenharia de Software na UNICESUMAR</li>
+  <li>Estou estudando Java Script na DIO</li>
+</ul>
+
+#### Algumas linguagens que tenho conhecimento:
+
 <!-- <div>
   <a href="https://github.com/vitocx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitocx&show_icons=true&custom_title=Victor GitHub Status&count_private=true&bg_color=3D3D3D&title_color=84B026&text_color=FFFFFF&icon_color=84B026&hide_border=true&locale=pt-br"/>
