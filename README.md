@@ -1,11 +1,12 @@
 ### Olá, eu sou Victor!
+#### E estou em busca de novas oportunidades
 
 <ul>
   <li>Sou estudante de Engenharia de Software na UNICESUMAR</li>
-  <li>Estou estudando Java Script na DIO</li>
+  <li>Estou sempre estudando novas tecnologias</li>
 </ul>
 
-#### Algumas linguagens que tenho conhecimento:
+Se gosta dos meus projetos aqui está meu email para contato: <a href="mailto:victorgbrielsilva@gmail.com">victorgbrielsilva@gmail.com</a>
 
 <!-- <div>
   <a href="https://github.com/vitocx">
