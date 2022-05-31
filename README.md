@@ -1,9 +1,8 @@
 ### Olá, eu sou Victor!
-#### E estou em busca de novas oportunidades
 
 <ul>
   <li>Sou estudante de Engenharia de Software na UNICESUMAR</li>
-  <li>Estou sempre estudando novas tecnologias</li>
+  <li>Atualmente estou estudando novas tecnologias</li>
 </ul>
 
 Se gosta dos meus projetos aqui está meu email para contato: <a href="mailto:victorgbrielsilva@gmail.com">victorgbrielsilva@gmail.com</a>
