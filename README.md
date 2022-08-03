@@ -5,7 +5,7 @@
   <li>Atualmente estou estudando novas tecnologias</li>
 </ul>
 
-Se gosta dos meus projetos aqui está meu email para contato: <a href="mailto:victorgbrielsilva@gmail.com">victorgbrielsilva@gmail.com</a>
+Gostou dos meus projetos? Aqui está meu email para contato: <a href="mailto:victorgbrielsilva@gmail.com">victorgbrielsilva@gmail.com</a>
 
 <!-- <div>
   <a href="https://github.com/vitocx">
