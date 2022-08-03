@@ -2,7 +2,8 @@
 
 <ul>
   <li>Sou estudante de Engenharia de Software na UNICESUMAR</li>
-  <li>Atualmente estou estudando novas tecnologias</li>
+  <li>Atualmente em formação no programa ONE (parceria entre Alura e Oracle)</li>
+  <img src="https://cdn1.gnarususercontent.com.br/1/815645/4942c699-28e4-4d62-b5e8-16f883e30741.png"/>
 </ul>
 
 Gostou dos meus projetos? Aqui está meu email para contato: <a href="mailto:victorgbrielsilva@gmail.com">victorgbrielsilva@gmail.com</a>
