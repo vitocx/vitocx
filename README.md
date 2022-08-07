@@ -4,7 +4,6 @@
   <li>Sou estudante de Engenharia de Software na UNICESUMAR</li>
   <li>Atualmente em formação no programa ONE (parceria entre Alura e Oracle)</li><br>
   <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank"><img src="https://cdn1.gnarususercontent.com.br/1/815645/4942c699-28e4-4d62-b5e8-16f883e30741.png"/></a><br>
-  Término em ≅ 30 de Janeiro de 2023.
 </ul>
 
 Gostou dos meus projetos? Aqui está meu email para contato: <a href="mailto:victorgbrielsilva@gmail.com">victorgbrielsilva@gmail.com</a>
