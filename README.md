@@ -1,4 +1,4 @@
-# Olá!
+# Olá, visitante! Meu nome é Victor.
 Sou estudante de Engenharia de Software na UNICESUMAR<br>Atualmente em formação no programa ONE (parceria entre Alura e Oracle)<br><br>Gostou dos meus projetos? Aqui está meu email para contato: victorgbrielsilva@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorcxias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorgbriel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/victobriel) 
