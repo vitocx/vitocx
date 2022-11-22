@@ -1,31 +1,24 @@
-### Olá, eu sou Victor!
+# 💫 About Me:
+Sou estudante de Engenharia de Software na UNICESUMAR<br>Atualmente em formação no programa ONE (parceria entre Alura e Oracle)<br><br>Gostou dos meus projetos? Aqui está meu email para contato: victorgbrielsilva@gmail.com
 
-<ul>
-  <li>Sou estudante de Engenharia de Software na UNICESUMAR</li>
-  <li>Atualmente em formação no programa ONE (parceria entre Alura e Oracle)</li><br>
-  <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank"><img src="https://cdn1.gnarususercontent.com.br/1/815645/4942c699-28e4-4d62-b5e8-16f883e30741.png"/></a><br>
-</ul>
 
-Gostou dos meus projetos? Aqui está meu email para contato: <a href="mailto:victorgbrielsilva@gmail.com">victorgbrielsilva@gmail.com</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorcxias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorgbriel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/victobriel) 
 
-<!-- <div>
-  <a href="https://github.com/vitocx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitocx&show_icons=true&custom_title=Victor GitHub Status&count_private=true&bg_color=3D3D3D&title_color=84B026&text_color=FFFFFF&icon_color=84B026&hide_border=true&locale=pt-br"/>
-</div>
--->
-<div style="display: inline_block"><br>
-  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <!-- <img align="center" alt="linguagem_javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> -->
-  <img align="center" alt="linguagem_java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="linguagem_python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</div>
-  
-  ##
-  
-<div>
-  <a href="https://www.instagram.com/victorcxias/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
-<!--
-**vitocx/vitocx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=victobriel&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=victobriel&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victobriel&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=victobriel&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=victobriel&icon=6&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
