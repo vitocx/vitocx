@@ -1,4 +1,4 @@
-<img><h1 align="left">Hi 👋 I'm Victor</h1>
+<h1 align="left">Hi 👋 I'm Victor</h1>
 <p align="left"></h1><img src="https://komarev.com/ghpvc/?username=victobriel&color=blueviolet&style=flat-square" alt="Profile views"></p>
 
 - 📖 Currently studying Software Engineering at UNICESUMAR
