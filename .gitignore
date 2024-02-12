@@ -4,4 +4,4 @@
 #not ignore
 !.gitignore
 !starship.toml
-
+!README.md
