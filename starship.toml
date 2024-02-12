@@ -3,7 +3,7 @@
 add_newline = true
 command_timeout = 1000
 format = """
-$os$username$hostname$kubernetes$directory$git_branch$git_status$git_commit$docker_context$python$docker_context$nodejs
+$os$username$hostname$kubernetes$directory$git_branch$git_status$git_commit$docker_context$python$docker_context$nodejs$character
 """
 
 # Drop ugly default prompt characters
