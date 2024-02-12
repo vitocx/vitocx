@@ -1,0 +1,7 @@
+#ignore everything
+*
+
+#not ignore
+!.gitignore
+!starship.toml
+
