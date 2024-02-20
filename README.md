@@ -5,7 +5,7 @@
 
 - 👨🏻‍🎓 Currently studying **Software Engineering** at UniCesumar
 
-- 🌱 I’m currently learning **React**, **TypeScript** and **Machine Learning**
+- 🌱 I’m currently learning **React**, **TypeScript**, **Machine Learning** and **English**
 
 - 👨‍💻 All of my projects are available at [https://github.com/victobriel?tab=repositories](https://github.com/victobriel?tab=repositories)
 
